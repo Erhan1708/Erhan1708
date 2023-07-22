@@ -1,4 +1,4 @@
-<h1>Hello! My name is <a href="https://www.instagram.com/haruo_sotozaki/" target="_blank">Erhan</a> 
+<h1>Hello! My name is <a href="https://www.instagram.com/errrhann_/" target="_blank">Erhan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>
@@ -62,7 +62,7 @@ ___
 </p>
 
 ### Social network
-[![Instagram](https://img.shields.io/badge/-Instagram-5B51D8?style=for-the-badge&logo=instagram&logoColor=Instagram)](https://www.instagram.com/programmer_taisho/)
+[![Instagram](https://img.shields.io/badge/-Instagram-5B51D8?style=for-the-badge&logo=instagram&logoColor=Instagram)](https://www.instagram.com/errrhann_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=telegram)](https://t.me/ErhanKubanychbekov)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-128c7e?style=for-the-badge&logo=Linkedin&logoColor=Linkedin)](https://www.linkedin.com/in/erhan-kubanychbekov/)
 
