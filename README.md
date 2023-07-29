@@ -36,7 +36,7 @@ ___
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="60" height="50"/>
     </a>
     <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="50"/>
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="60" height="50"/>
     </a>
     <a href="" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="50"/>
