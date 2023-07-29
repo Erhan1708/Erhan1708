@@ -11,6 +11,9 @@ ___
 ## 👨‍💻 Languages and tools:
 
 <p align="left">
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
     <a href="" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="50"/>
     </a>
