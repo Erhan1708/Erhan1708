@@ -4,7 +4,6 @@
 <p>
 I have been programming since 2020.
 Studied at "IT School Mega Com" on "Front-end JavaScript, React"
-I know how to typeset (HTML/CSS, Sass, Bootstrap, flex, grid) and much more.
 </p>
 
 ___
