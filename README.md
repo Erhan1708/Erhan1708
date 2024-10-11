@@ -11,7 +11,7 @@ ___
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,redux,next,nest,gulp,sass,ts,docker,postman,bootstrap,materialui,webpack&perline=10)]()
 
 ### Social network
-[![Social network](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erhan-kubanychbekov-741475238)
+[![Social network](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erhan-kubanychbekov-741475238/)
 [![Social network](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/errrhann_/)
 [![Social network](https://skillicons.dev/icons?i=telegram)](https://t.me/errrhann)
 
