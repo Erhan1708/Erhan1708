@@ -2,8 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>
-I have been programming since 2020.
-Studied at "IT School Mega Com" on "Front-end JavaScript, React"
+Frontend developer with 2+ years of experience developing Web applications in JavaScript,
+TypeScript, React and Next.js. Participated in StartUp Nation, building a team of 13 people (Frontend,
+Backend, UI/UI designer, Flutter), as a result got to the final stages. I am actively studying
+Frontend technologies, improving my skills.
 </p>
 
 ___
