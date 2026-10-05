@@ -4,10 +4,10 @@
 <h3>Lead Frontend Developer (React / Next.js) · Bishkek, Kyrgyzstan 🇰🇬</h3>
 
 <p>
-Frontend developer with 3+ years of experience specializing in building scalable products from
-scratch. I have led development teams, introduced modern architecture (Feature Sliced Design),
-and improved key business metrics: conversion, release speed and code stability. My value is a
-systematic approach — improving the product through quality code and effective communication.
+An experienced front-end developer specializing in building scalable products from
+scratch. I have led development teams, implemented modern architecture (Feature Sliced Design),
+and improved key business metrics: conversion rates, release velocity, and code stability. My strength lies in
+a systematic approach: improving the product through high-quality code and effective communication.
 </p>
 
 - 🏦 Currently working on Fintech, E-commerce & Retail projects at **KIMC**
